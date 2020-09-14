@@ -17,5 +17,5 @@ If you leave it as is, it will give an empty string / fields when requesting it.
 
 /etc/nginx/snippets/security.txt.conf is then the file to include :)
 
-#License & Copyright
+# License & Copyright
 No clue where I got the initial idea from to simply put it like this, If you know, please let me so I can attribute them :) Otherwise, great minds think alike or something ^^
