@@ -14,3 +14,5 @@ To facilitate host-based parts, you can create a map inside your http block to p
 Download the config-snippet file and load it for the sites you want to apply this for.
 Change the snippet and configure it appropriately by populating fields.
 If you leave it as is, it will give an empty string / fields when requesting it.
+
+/etc/nginx/snippets/security.txt.conf is then the file to include :)
